@@ -10,4 +10,4 @@ I'm a final-year Computing and IT student at The Open University, passionate abo
 ### 🛠️ Languages & Tools
 Python | Java | HTML/CSS | JavaScript (basic) | React Native (basic) | Git | VS Code
 
-📫 Reach me at: georgemanton@hotmail.com
+📫 Reach me at: georgewmanton@hotmail.com
